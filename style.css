@@ -9,7 +9,7 @@ img {vertical-align: middle;}
 
 body{
     background: white;
-    width: 100%;
+    max-width: 100%;
 }
 
 /* sidebar*/
