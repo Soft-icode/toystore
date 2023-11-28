@@ -179,7 +179,7 @@ h1{
 
 .heading-1{
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 2vh;
     font-weight: 700;
     font-family: 'Rubik Mono One', monospace;
 }
@@ -463,7 +463,10 @@ footer {
         display: none;
     }
     
-
+.counter-wrapper > .Wrapper{
+     display: none;
+      
+    }
 .open{
         display: block;
         font-size:30px;
